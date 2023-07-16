@@ -1,0 +1,7 @@
+-- Notifacation --
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/shakar60/Notification./main/shakar%236955",true))()
+
+-- Main Script Hub --
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/shakar60/Official/main/shakars%20hub",true))()
